@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "First_stm32")(type "KiCad")(uri "C:/Users/acimovpr/Documents/KiCad/6.0/projects/First_stm32.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
