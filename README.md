@@ -1,2 +1,2 @@
 # STM32-dev-board
-custom PCB design
+Custom PCB design. KiCad was used for designing.
